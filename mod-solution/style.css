@@ -27,7 +27,7 @@ h1 {
 }
 
 
-.content-name{
+.menu{
   overflow: none;
   text-align: center;
   border: 4px solid black;
@@ -41,7 +41,7 @@ h1 {
   position: relative;
 }
 
-.content{
+.text{
   border: 5px solid black;
   width: 90%;
   height: auto;
@@ -53,15 +53,15 @@ h1 {
   background-color: rgba(0,0,0,0.3);
 }
 
-.name1{
+.chicken{
   background-color: #FFB6C1;
 }
 
-.name2{
+.beef{
   color: white;
   background-color: #FF0000;
 }
-.name3{
+.sushi{
   background-color: #FFFF00;
 }
 
